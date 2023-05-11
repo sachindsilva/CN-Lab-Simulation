@@ -6,7 +6,7 @@
 <h4>▶ This wiki involves the sequence of steps needs to be performed while processing NS3 Simulation.. ◀</h4>
 </div>
 
-- Firstly,📝 Make sure that your terminal is located in home directory, *(i.e /home/student)*, to cross-check your working directory, input the following command.
+- [x] Firstly,📝 Make sure that your terminal is located in home directory, *(i.e /home/student)*, to cross-check your working directory, input the following command.
 
 
 ```
@@ -14,27 +14,27 @@ $ pwd
 ```
 <hr>
 
-- 📁 Change directory to this :
+- [x] 📁 Change directory to this :
 
 ```
 $ cd /home/student
 ```
 <hr>
 
-- Now, look for a folder named as 📁 "ns-allinone-3.33" in the home directory. (If you're comfortable with GUI, Hereon, execute the following command to open Ubuntu Finder *(aka File Explorer)*
+- [x]  Now, look for a folder named as 📁 "ns-allinone-3.33" in the home directory. (If you're comfortable with GUI, Hereon, execute the following command to open Ubuntu Finder *(aka File Explorer)*
 
 ```
 $ nautilus .
 ```
 <hr>
 
-- Once you launch the **Finder**, look for the folder 📁 "ns-allinone-3.33", click on this folder and look for folder named --> 📁 "ns-3.33".
+- [x] Once you launch the **Finder**, look for the folder 📁 "ns-allinone-3.33", click on this folder and look for folder named --> 📁 "ns-3.33".
 <hr>
 
-- Thereon, you will find the folder named 📁 "scratch". cd into that folder and you're good to go for coding 👨🏻‍💻 .
+- [x] Thereon, you will find the folder named 📁 "scratch". cd into that folder and you're good to go for coding 👨🏻‍💻 .
 <hr>
 
-- After completion 👍🏻 of coding, open terminal in the current directory and execute the following commands  
+- [x] After completion 👍🏻 of coding, open terminal in the current directory and execute the following commands  
 ```
 $ cd ..
 ```
@@ -51,7 +51,7 @@ $ ./waf --run scratch/[your-program-name].cc
 ```
 <hr>
 
-- The above 👆 sequence of steps as mentioned is intended for program execution. Simulation part will be updated ASAP 🙆‍♀️.
+- [x] The above 👆 sequence of steps as mentioned is intended for program execution. Simulation part will be updated ASAP 🙆‍♀️.
 <hr>
 
 <div>
