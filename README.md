@@ -65,13 +65,13 @@ $ cd home
 ```
 
 ```
-cd netanim-3.33
+$ cd netanim-3.33
 ```
 
  - [ ] Right click and **"open with terminal"**.
 
 ```
-ls Netanim
+$ ls Netanim
 ```
 
 - [x] If your prompt delivers success, execute the following command. 👇
@@ -80,7 +80,9 @@ ls Netanim
 $ ./NetAnim
 ```
 
-> **Note** : Make sure the above command keyword written in **`PascalCase`**
+> **Warning** : Make sure the above command keyword written in **`PascalCase`**
+
+> **Note** : Keep track of current working directory by running **`pwd`** evrytime when you cd from root directory.
 
 <div>
 <h5 align="center">Made with 💘 by Ampman 👨🏻‍💻 </h5>
