@@ -53,8 +53,34 @@ $ ./waf --run scratch/[your-program-name].cc
 ```
 <hr>
 
-- [x] The above 👆 sequence of steps as mentioned is intended for program execution. Simulation part will be updated ASAP 🙆‍♀️.
+- [x] The above 👆 sequence of steps as mentioned is intended for program execution. 🙆‍♀️.
 <hr>
+
+> - ## HOW TO RUN NETWORK ANIMATION - SIMULATOR..
+
+- [x] Follow the sequence of steps..
+
+```
+$ cd home
+```
+
+```
+cd netanim-3.33
+```
+
+ - [ ] Right click and **"open with terminal"**.
+
+```
+ls Netanim
+```
+
+- [x] If your prompt delivers success, execute the following command. 👇
+
+```
+$ ./NetAnim
+```
+
+> **Note** : Make sure the above command keyword written in **`PascalCase`**
 
 <div>
 <h5 align="center">Made with 💘 by Ampman 👨🏻‍💻 </h5>
