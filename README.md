@@ -53,7 +53,7 @@ $ ./waf --run scratch/[your-program-name].cc
 ```
 <hr>
 
-- [x] The above 👆 sequence of steps as mentioned is intended for program execution. 🙆‍♀️.
+- [x] The above 👆 sequence of steps as mentioned is intended for program execution on terminal only... 🙆‍♀️.
 <hr>
 
 > - ## HOW TO RUN NETWORK ANIMATION - SIMULATOR..
